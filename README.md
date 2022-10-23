@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm James Munoz</h1>
+<h1 align="center">Hi, I'm James Munoz</h1>
 <h3 align="center">A Passionate Software Engineer born and raised in Hawaii. I work with HTML, CSS, Javascript, Node.js, MongoDB, and React.</h3>
 
 - 👨‍💻 All of my projects are available at [https://james-munoz.netlify.app/](https://james-munoz.netlify.app/)
